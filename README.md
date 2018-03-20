@@ -6,3 +6,5 @@ This document shall not be reproduced / photocopied either partly or wholly with
 Few Maven files added.
 
 Update on Git
+
+New File
